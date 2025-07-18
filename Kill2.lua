@@ -1,3 +1,5 @@
+
+
 -- Admin-like Kill All para KRNL / Synapse - solo si el servidor es vulnerable
 -- ⚠️ Solo para pruebas de seguridad en colaboración con administradores
 
